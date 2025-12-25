@@ -1,0 +1,118 @@
+header {
+    width: 600px;
+    height:50px;
+    background-color:grey;
+}
+
+footer {
+    width: 600px;
+    height:50px;
+    background-color:lightgrey;
+}
+
+table {
+    width: 600px;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+/*Table colors*/
+#R1K1 {
+    background-color:darkred;
+}
+
+#R1K2 {
+    background-color:darkgreen;
+}
+
+#R1K3 {
+    background-color:maroon;
+}
+
+#R1K4 {
+    background-color:green;
+}
+
+#R2K1 {
+    background-color:saddlebrown;
+}
+
+#R2K2 {
+    background-color:forestgreen;
+}
+
+#R2K3 {
+    background-color:darkgoldenrod;
+}
+
+#R2K4 {
+    background-color:limegreen;
+}
+
+#R3K1 {
+    background-color:firebrick;
+}
+
+#R3K2 {
+    background-color:darkolivegreen;
+}
+
+#R3K3 {
+    background-color:brown;
+}
+
+#R3K4 {
+    background-color:olivedrab;
+}
+
+#R4K1 {
+    background-color:chocolate;
+}
+
+#R4K2 {
+    background-color:yellowgreen;
+}
+
+#R4K3 {
+    background-color:burlywood;
+}
+
+#R4K4 {
+    background-color:olive;
+}
+
+/*Text in table colors*/
+#textR1K1 {
+    background-color: green;
+}
+
+#textR2K1 {
+    background-color: yellowgreen;
+}
+
+#textR3K1 {
+    background-color: limegreen;
+}
+
+#textR4K1 {
+    background-color: olivedrab;
+}
+
+#textR1K3 {
+    background-color: forestgreen;
+}
+
+#textR2K3 {
+    background-color: darkgreen;
+}
+
+#textR3K3 {
+    background-color: olive;
+}
+
+#textR4K3 {
+    background-color: darkolivegreen;
+}
